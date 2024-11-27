@@ -17,13 +17,14 @@
 <h4>Formação</h4>
 
 - 🎓 Técnico em Informática pelo IFPI Campus Pedro II
-- 🎓 Graduando em Análise e Desenvolvimento de sistemas (5/6)
+- 🎓 Graduando em Análise e Desenvolvimento de sistemas (6/6)
 - 🧑‍🏫 Autodidata
 
   </hr>
 
 <h4  align="center">Technology Stack 👨‍💻</h4>  
 <div>
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
