@@ -8,8 +8,8 @@
 <table border="0">
 <tr>
 <td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danonep2&hide_progress=false&theme=radical" width="800px" /><br/>
-<img src="https://github-readme-stats.vercel.app/api?username=danonep2&show_icons=true&theme=radical" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=danonep2&show_icons=true&include_all_commits=true&theme=github_dark&bg_color=141414&text_color=fff&title_color=61DAFB&icon_color=61DAFB&hide_border=true" alt="Estatísticas gerais" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=danonep2&layout=compact&theme=github_dark&bg_color=141414&text_color=fff&title_color=61DAFB&hide_border=true" alt="Linguagens mais usadas" />
 </td>
 
 <td>
@@ -55,15 +55,15 @@
 <p align="center"> Quer falar comigo sobre algo ou apenas bater um papo? Tente os seguintes contatos: </p>
 <div align="center">
 <a href="https://www.instagram.com/danonep2/">
-  <img src="https://img.shields.io/badge/-@Iago-fe428e?logo=instagram&logoColor=white" alt="Instagram Badge" />
+  <img src="https://img.shields.io/badge/-@Iago-141414?logo=instagram&logoColor=white" alt="Instagram Badge" />
 </a>
 <a href="https://www.linkedin.com/in/iago-amorim-262407233/">
-  <img src="https://img.shields.io/badge/-Iago%20Amorim-fe428e?logo=linkedin&logoColor=white" alt="Linkedin Badge" />
+  <img src="https://img.shields.io/badge/-Iago%20Amorim-141414?logo=linkedin&logoColor=white" alt="Linkedin Badge" />
 </a>
 <a href="https://t.me/danonep2">
-  <img src="https://img.shields.io/badge/-Iago-fe428e?logo=telegram&logoColor=white" alt="Telegram Badge" />
+  <img src="https://img.shields.io/badge/-Iago-141414?logo=telegram&logoColor=white" alt="Telegram Badge" />
 </a><br/>
 <a href="mailto:ogaidsa@gmail.com">
-  <img src="https://img.shields.io/badge/-ogaidsa@gmail.com-fe428e?logo=gmail&logoColor=white" alt="Gmail Badge" />
+  <img src="https://img.shields.io/badge/-ogaidsa@gmail.com-141414?logo=gmail&logoColor=white" alt="Gmail Badge" />
 </a>
 </div>
