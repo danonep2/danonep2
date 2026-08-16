@@ -17,7 +17,7 @@
 <h4>Formação</h4>
 
 - 🎓 Técnico em Informática pelo IFPI Campus Pedro II
-- 🎓 Graduado em Análise e Desenvolvimento de sistemas
+- 🎓 Graduando em Análise e Desenvolvimento de sistemas
 - 🧑‍🏫 Autodidata
 
   </hr>
