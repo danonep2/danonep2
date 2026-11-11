@@ -7,9 +7,8 @@
 
 <table border="0">
 <tr>
-<td>
-  <img width="720px" src="https://github-stats-extended.vercel.app/api?username=danonep2&show_icons=true&include_all_commits=true&theme=github_dark&bg_color=141414&text_color=fff&title_color=61DAFB&icon_color=61DAFB&hide_border=true" alt="Estatísticas gerais" />
-  <img width="720px" src="https://github-stats-extended.vercel.app/api/top-langs/?username=danonep2&layout=compact&theme=github_dark&bg_color=141414&text_color=fff&title_color=61DAFB&hide_border=true" alt="Linguagens mais usadas" />
+<td width="400">
+  <img width="400px" src="assets/github-stats.svg" alt="Estatísticas do GitHub" />
 </td>
 
 <td>
